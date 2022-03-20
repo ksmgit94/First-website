@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big{
+    font-size: 60px;
+}
+span{
+    color: whitesmoke;
+    font-weight: 900;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 span{
+    color: teal;
+} 
